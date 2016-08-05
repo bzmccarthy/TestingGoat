@@ -1,3 +1,6 @@
+"""Initial files to test out test-driven development using
+Python, Django, Selenium"""
+
 from selenium import webdriver
 import unittest
 
